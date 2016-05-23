@@ -2,7 +2,7 @@
 <html lang = "en">
 	<head>
 		<meta charset="utf-8" />
-		<title>Revelio Theme | Homepage</title>
+		<title>Simetri Yazılım</title>
 		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
 		<meta content="width=device-width, initial-scale=1" name="viewport" />
 		<meta name="description" content="" />
